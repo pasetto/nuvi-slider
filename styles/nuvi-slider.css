@@ -1,0 +1,14 @@
+.nuvi-is-editor{
+    background: #f83e3e;
+    border: 10px solid #f80000;
+    color: #fff;
+    padding:10px;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
+
+.nuvi-slider-wrapper .swiper-pagination{
+    display: flex !important;
+}
